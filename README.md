@@ -102,3 +102,7 @@ The data comes from Shah, Paturi & Chava (2023), "Trillion Dollar Words: A New
 Financial Dataset, Task & Market Analysis" (ACL), released under CC BY-NC 4.0:
 non-commercial use only, so cite the paper. Labels: 0 = dovish, 1 = hawkish,
 2 = neutral.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Free to use, change and share. Data downloaded from public sources stay under their providers' terms. Independent open-source project, not affiliated with or endorsed by any employer, regulator or data vendor.
